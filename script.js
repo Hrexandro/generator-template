@@ -1,6 +1,6 @@
 
 import {
-  example,
+  sign
 
 
 } from "./names.js";

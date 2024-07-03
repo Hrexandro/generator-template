@@ -1,8 +1,12 @@
-export const example = {
+export const sign = {
   type: "picker",
   list: [
-"one",
-"two"
+    "Gwiazda - Odważna/brawurowa",
+    "Koło - Robotna/bez wyobraźni",
+    "Żołądź - Dociekliwa/uparta",
+    "Burza - Szczodra/gniewna",
+    "Księżyc - Mądra/nieprzenikniona",
+    "Matka - Opiekuńcza/zamartwiająca się",
   ],
 };
 
